@@ -35,9 +35,8 @@ To recommend:
 
 ## 📂 Files Included
 
-- `LSTM_COURSE_PROJECT.ipynb` – Full Jupyter Notebook (code + outputs)
-- `Spring_Team_454_Presentation.pdf` – Final presentation slides
-- `requirements.txt` – Python packages needed (Optional, but recommended if others want to run your code)
+- `Restaurant_Business_Recommendations.ipynb` – Full Jupyter Notebook (code + outputs)
+- `requirements.txt` – Python packages needed 
 
 ---
 
