@@ -45,4 +45,4 @@ To recommend:
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/restaurant-business-recommendation.git
+git clone https://github.com/rohanj12/restaurant-business-recommendation.git
